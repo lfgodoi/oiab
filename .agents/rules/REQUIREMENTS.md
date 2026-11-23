@@ -1,3 +1,8 @@
+---
+trigger: model_decision
+description: "Functional and non-functional product requirements for OIAB. Load before planning, designing, implementing, or testing any feature."
+---
+
 # OIAB - Observatório Indústria-Academia Brasil
 
 ## Goal

@@ -1,3 +1,7 @@
+---
+trigger: always_on
+---
+
 # Instructions to the agent
 
 - The intended product goal is defined in the ".agents/rules/REQUIREMENTS.md" file.
